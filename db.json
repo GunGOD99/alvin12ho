@@ -1,0 +1,16 @@
+{
+  "posts": [
+    { "id": 1, "ram": 8, "price":50000, "product":"Samsung" },
+{ "id": 2, "ram": 8, "price": 60000, "product":"Dell" },
+{ "id": 3, "ram": 8, "price": 75000, "product":"HP" },
+{ "id": 4, "ram": 16, "price": 70000, "product":"LG" },
+{ "id": 5, "ram": 16, "price": 80000, "product":"Oneplus" },
+{ "id": 6, "ram": 16, "price": 90000, "product":"Oppo" }
+
+
+  ],
+ "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
